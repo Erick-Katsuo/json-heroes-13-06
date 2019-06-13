@@ -1,40 +1,46 @@
 {
-  "squadName": "Supeasdasdasdr hero squad",
-  "homeTown": "Metro City",
-  "formed": 2016,
-  "secretBase": "Super tower",
-  "active": true,
-  "members": [
+  "gameName": "DarkOrbit",
+  "imageLogo": "https://static.gtarcade.com/gta_games/games-bp/img/login-logo.png?20181219153300",
+  "creado": 2006,
+  "devoloper": "Bigpoint",
+  "ships": [
     {
-      "name": "Molecule Man",
-      "age": 29,
-      "secretIdentity": "Dan Jukes",
-      "powers": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "nave": "Goliath",
+      "uridium": 80000,
+      "ability": "Ninguno",
+      "imageLogoShip": "https://gamepedia.cursecdn.com/darkorbit_gamepedia/0/0d/Goliath.gif",
+      "characteristics": [
+        "Speed: 500",
+        "Lasers: 25",
+        "Generators 15",
+        "Extra 3",
+        "Cargo 3000"   
       ]
     },
     {
-      "name": "Madame Uppercut",
-      "age": 39,
-      "secretIdentity": "Jane Wilson",
-      "powers": [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+      "nave": "Solace",
+      "uridium": 250000,
+      "ability": "Reparaciones de Nano-Cluster repara el 35% de su HP y el 15% de los miembros de su grupo HP.",
+      "imageLogoShip": "http://www.bigpoint.com/darkorbit/board/attachments/solace-gif.6544/",
+      "characteristics": [
+        "Speed: 400",
+        "Lasers: 15",
+        "Generators 20",
+        "Extra 4",
+        "Cargo 1500"     
       ]
     },
     {
-      "name": "Eternal Flame",
-      "age": 1000000,
-      "secretIdentity": "Unknown",
-      "powers": [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+      "nave": "Spectrum",
+      "uridium": 250000,
+      "ability": "Blindaje prismático los enemigos te infligen un 70% menos de daño, pero tu daño se reduce un 45%.",
+      "imageLogoShip": "https://1.bp.blogspot.com/-MZePYBXpLZ8/WKzsQQsOJGI/AAAAAAAAAgU/bn51RNyjTcs5Ko-cn_4uXwKAIgLRgTv4QCLcB/s320/spectrum.gif",
+      "characteristics": [
+        "Speed: 350",
+        "Lasers: 15",
+        "Generators 15",
+        "Extra 2",
+        "Cargo 2500"     
       ]
     }
   ]
